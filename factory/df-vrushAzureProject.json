@@ -1,0 +1,15 @@
+{
+	"name": "df-vrushAzureProject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6698d0fd-f485-4759-b150-666e6aeac01e",
+		"tenantId": "7fc9223b-fd73-446f-8633-da537487f7df"
+	}
+}
